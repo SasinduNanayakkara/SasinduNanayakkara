@@ -8,7 +8,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🔭 I’m currently working on **[E-Commerce app](https://github.com/SasinduNanayakkara/E-commerce-app)**
+- 🔭 I’m currently working on **[ITP-Project](https://github.com/2nd-year)**
 - 🎓 I’m currently undergraduate in **Data Science**
  
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
